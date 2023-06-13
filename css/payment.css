@@ -1,0 +1,108 @@
+.payment__container--title{
+    width: 350px;
+    height: 130px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 0 auto;
+}
+.payment__container--title--heading{
+    height: 50px;
+    width: 383.406005859375px;
+    padding: 0 30px;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 50px;
+    text-align: center;
+    color: #0B132A;
+    margin-bottom: 40px; 
+    margin-top: 30px;
+}
+.payment__container--title--passage{
+    height: 60px;
+    width: 400px;
+    padding: 0 50px;
+    font-size: 16px;
+    line-height: 30px;
+    text-align: center;
+    color: #4F5665;
+}
+.payment__container--cardbox{
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 100px;
+    text-align: center;
+    gap: 60px;
+}
+.payment__container__box{
+    width: 350px;
+    height: 300px;
+    margin: 0 auto;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.box__content--text li{
+    display: flex;
+}
+.container__box--content{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.box__content--image p{
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    color: #0B132A;
+}
+.box__content--text ul li p{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 30px;
+    color: #4F5665;
+}
+.box__content--text ul li {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+.container__box--btn p {
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+    text-align: center;
+    color: #4F5665;
+    margin-bottom: 10px;
+}
+.container__box--btn p span{
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 30px;
+    text-align: center;
+    color: #0B132A; 
+}
+.container__box--btn button{
+    width: 177px;
+    height: 45px;
+    border: 1px solid #F53838;
+    color: #F53838;
+    background-color: #fff;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    color: #F53838;
+    transition: 0.6s;
+    border-radius: 20px;
+}
+.container__box--btn button:hover{
+    color: #ffffff;
+    background-color: #F53838;
+    -webkit-box-shadow: 4px 21px 36px 3px rgba(245, 56, 56, 0.35);
+    -moz-box-shadow: 4px 21px 36px 3px rgba(245, 56, 56, 0.35);
+    box-shadow: 4px 21px 36px 3px rgba(245, 56, 56, 0.35);
+}

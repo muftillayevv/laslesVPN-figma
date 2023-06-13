@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+body {
+  font-family: "Rubik";
+}
+a {
+  list-style-type: none;
+}
+li {
+  text-decoration: none;
+}
+button {
+  border: none;
+  cursor: pointer;
+}
+header {
+  width: 100%;
+}
+main {
+  width: 100%;
+}
+footer {
+  width: 100%;
+}
