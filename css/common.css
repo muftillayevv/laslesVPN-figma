@@ -22,10 +22,12 @@ button {
 }
 header {
   width: 100%;
+  
 }
 main {
   width: 100%;
 }
 footer {
   width: 100%;
+  background-color: #F8F8F8;
 }
